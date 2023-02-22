@@ -124,7 +124,7 @@ char *find_path(info_t *, char *, char *);
 
 int loophsh(char **);
 
-/* errors */
+/* errors_1 */
 void _eputs(char *);
 int _eputchar(char);
 int _putfd(char c, int fd);
@@ -162,7 +162,7 @@ int is_delim(char, char *);
 int _isalpha(int);
 int _atoi(char *);
 
-/* errors */
+/* errors_2 */
 int _erratoi(char *);
 void print_error(info_t *, char *);
 int print_d(int, int);
