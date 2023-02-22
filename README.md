@@ -57,6 +57,7 @@ $
 | `free` | [man 3 free](https://linux.die.net/man/3/free) |
 | `getcwd` | [man 3 getcwd](https://linux.die.net/man/3/getcwd) |
 | `getline` | [man 3 getline](https://linux.die.net/man/3/getline) |
+| `getpid` | [man 2 getpid](https://linux.die.net/man/2/getpid) |
 | `isatty` | [man 3 isatty](https://linux.die.net/man/3/isatty) |
 | `kill` | [man 2 kill](https://linux.die.net/man/2/kill) |
 | `malloc` | [man 3 malloc](https://linux.die.net/man/3/malloc) |
